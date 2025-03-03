@@ -262,6 +262,8 @@ section {
 
 .about-containers {
   gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 .about-details-container {
@@ -272,4 +274,14 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
+}
+
+.about-pic {
+  border-radius: 2rem;
+}
+
+.arrow {
+  position: absolute;
+  right: -5rem;
+  bottom: 2.5rem;
 }
