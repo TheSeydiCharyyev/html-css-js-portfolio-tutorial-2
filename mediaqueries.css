@@ -40,6 +40,9 @@
     height: 275px;
     margin: 0 auto 2rem;
   }
+  .about-containers {
+    margin-top: 0;
+  }
 }
 
 /* .hamburger-icon span {
