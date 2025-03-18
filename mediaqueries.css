@@ -72,6 +72,22 @@
   .contact-info-container p .nav-links li a {
     font-size: 1rem;
   }
+  .experience-sub-title {
+    font-size: 1.25 rem;
+  }
+  .logo {
+    font-size: 1.5rem;
+  }
+  .nav-links {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+
+  .section__pic-container {
+    width: auto;
+    height: 46vw;
+  }
 }
 
 /* .hamburger-icon span {
